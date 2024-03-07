@@ -12,7 +12,7 @@ public class PalabrasComando {
     public enum comando{
         IR, FIN ,AYUDA, ATACAR
     }
-    public boolean {
+   
     
-}
+
 }
